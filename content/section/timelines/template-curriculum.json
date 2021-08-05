@@ -1,0 +1,206 @@
+{
+  "sections": [
+    {
+      "title": "Educación",
+      "media": {
+        "icon": "mdi:domain",
+        "color": "#7c4444"
+      },
+      "items": [
+        {
+          "head": {
+            "date": "2010",
+            "title": "D.C.A Sistemas"
+          },
+          "body": {
+            "title": "Operador de computadoras",
+            "text": "",
+            "goals": [
+              {
+                "text": "Certificado en Creación de paginas Web"
+              }
+            ]
+          }
+        },
+        {
+          "head": {
+            "date": "2009-2010",
+            "title": "Unidad Educativa Juan Larrea"
+          },
+          "body": {
+            "title": "Bachiller Tecnico en Aplicaciones Informaticas",
+            "goals": [
+              {
+                "text": "Mejor egresado de la Especialidad"
+              }
+            ],
+            "text": ""
+          }
+        },
+        {
+          "head": {
+            "date": "2012-2016",
+            "title": "Universidad San Francisco"
+          },
+          "body": {
+            "title": "Ingeniera en sistemas informaticos",
+            "goals": [
+              {
+                "text": "Premio por el Proyecto Simulador de GUI Gnome 3"
+              }
+            ],
+            "text": ""
+          }
+        }
+      ],
+      "icon": "mdi:school"
+    },
+    {
+      "title": "Proyectos",
+      "icon": "mdi:briefcase",
+      "items": [
+        {
+          "head": {
+            "date": "2017",
+            "title": "Ionic, Firebase"
+          },
+          "body": {
+            "title": "Devilery App",
+            "text": "Aplicación de delivery, catalogo y reservas en restaurantes."
+          }
+        },
+        {
+          "head": {
+            "date": "2017",
+            "title": "React Native, Firebase, NodeJs"
+          },
+          "body": {
+            "title": "App Juegamas",
+            "text": "Aplicación para reserva de canchas de fútbol sinteticas."
+          }
+        },
+        {
+          "head": {
+            "date": "2018",
+            "title": "HapiJs, Handlebars, Webpack, FoundationZurb"
+          },
+          "body": {
+            "title": "Flow 1.0.0: Herramienta",
+            "text": "Herramienta para generación de sitios web estáticos optimizados para SEO y posicionamiento orgánico. "
+          }
+        },
+        {
+          "head": {
+            "date": "2018",
+            "title": "Html,Css,Javascript"
+          },
+          "body": {
+            "title": "Fisa Group: Pagina Web",
+            "text": "Pagina web corporativa multi-idioma"
+          }
+        },
+        {
+          "head": {
+            "date": "2019",
+            "title": "VueJs, NodeJs, Graphql, Postgresql"
+          },
+          "body": {
+            "title": "NitroStock: Ecommerce de llantas",
+            "text": "Pagina web, sistema de articulos y pedidos, pasarelas de pago Ecuador."
+          }
+        },
+        {
+          "head": {
+            "date": "2019",
+            "title": "VueJs, Express, Graphql, Postgresql"
+          },
+          "body": {
+            "title": "Roma: Crm",
+            "text": "Gestor de leads y CRM para Seguros del Pichincha(Ecuador)"
+          }
+        },
+        {
+          "head": {
+            "date": "2020",
+            "title": "HapiJs, Nunjucks, Webpack, VueCli, TailwindCss"
+          },
+          "body": {
+            "title": "Flow 2.0: Herramienta",
+            "text": "Actualización de herramienta para generación de sitios web estáticos optimizados para SEO y posicionamiento orgánico. "
+          }
+        },
+        {
+          "head": {
+            "date": "2020",
+            "title": "Vue, HapiJs, Graphql, Postgresql"
+          },
+          "body": {
+            "title": "Vivelo: Ecommerce",
+            "text": "Pagina web y Ecommerce para venta de seguros e integración con PlaceToPay pasarela de pagos, generación de certificados y envió de emails. "
+          },
+          "action": {
+            "text": "Ver proyecto",
+            "url": "https://viveloseguro.com.ec/"
+          }
+        },
+        {
+          "head": {
+            "date": "2021",
+            "title": "HapiJs, Eta ,Nunjucks,  Vue 3, Vite, Netlify, CMS, WindiCss"
+          },
+          "body": {
+            "title": "Flow 3.0: Herramienta",
+            "text": "Actualización de herramienta para generación de sitios web estáticos optimizados para SEO y posicionamiento orgánico. "
+          },
+          "action": {
+            "text": "Ver proyecto",
+            "url": "https://docs-flow.netlify.app/"
+          }
+        },
+        {
+          "head": {
+            "date": "2021",
+            "title": "Vue, Flow, HapiJs, Graphql, Postgresql"
+          },
+          "body": {
+            "title": "Vivelo Priority: Ecommerce",
+            "text": "Pagina web y Ecommerce para venta de seguros e integración con PlaceToPay pasarela de pagos, generación de certificados y envió de emails. "
+          },
+          "action": {
+            "text": "Ver proyecto",
+            "url": "https://priority.viveloseguro.com.ec/"
+          }
+        },
+        {
+          "head": {
+            "date": "2021",
+            "title": "Vue, Flow, HapiJs, Graphql, Postgresql"
+          },
+          "body": {
+            "title": "Generador de formularios: Jamstack",
+            "text": "Generador de formularios para recopilación de información. Ambiente administrativo, reportes."
+          },
+          "action": {
+            "text": "Ver Proyecto",
+            "url": "https://sdp-formularios.netlify.app/formularios/muestra"
+          }
+        },
+        {
+          "head": {
+            "date": "2021-Presente",
+            "title": "Vue, Flow, Netlify"
+          },
+          "body": {
+            "title": "GIX, tarjetas digitales: Jamstack",
+            "text": "Generador de tarjetas de presentación digital para múltiples caso de uso."
+          },
+          "action": {
+            "text": "Ve proyecto",
+            "url": "https://gix.cards/"
+          }
+        }
+      ]
+    }
+  ],
+  "title": "Template curriculum"
+}

@@ -1,0 +1,14 @@
+{
+  "favicon": {
+    "16": "/images/js-logo.png",
+    "32": "/images/js-logo.png"
+  },
+  "social": {
+    "all": "/images/0_ah8yui7nqaz6b-v_.png"
+  },
+  "icons": {
+    "180": "/images/js-logo.png",
+    "192": "/images/js-logo.png",
+    "512": "/images/js-logo.png"
+  }
+}

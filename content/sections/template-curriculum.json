@@ -1,0 +1,24 @@
+{
+  "card": {
+    "name": "Mi tarjeta",
+    "icon": "mdi:account"
+  },
+  "title": "Template curriculum",
+  "sections": [
+    {
+      "name": "Timeline",
+      "section": "/section/timelines/template-curriculum",
+      "icon": "fe:timeline"
+    },
+    {
+      "name": "Skills",
+      "section": "/section/skills/template-curriculum",
+      "icon": "carbon:skill-level-intermediate"
+    },
+    {
+      "name": "Code",
+      "section": "/section/links/template-curriculum",
+      "icon": "fa-brands:github"
+    }
+  ]
+}

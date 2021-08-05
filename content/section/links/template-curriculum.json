@@ -1,0 +1,66 @@
+{
+  "title": "Template curriculum",
+  "items": [
+    {
+      "title": "Github",
+      "url": "https://github.com/AndresGnu",
+      "media": {
+        "image": "",
+        "icon": "fa-brands:github"
+      },
+      "colors": {
+        "bg": "#0069cb",
+        "icon": "#ffffff"
+      },
+      "subtitle": "AndresGnu"
+    },
+    {
+      "title": "GitHub",
+      "subtitle": "RedwareEc",
+      "url": "https://github.com/RedwareEc",
+      "colors": {
+        "bg": "#ff1f91",
+        "icon": "#ffffff"
+      },
+      "media": {
+        "icon": "fa-brands:github"
+      }
+    },
+    {
+      "title": "Github",
+      "url": "https://github.com/DigitalVCard",
+      "colors": {
+        "bg": "#38dbef",
+        "icon": "#ffffff"
+      },
+      "media": {
+        "icon": "fa-brands:github"
+      },
+      "subtitle": "DigitalVCard"
+    },
+    {
+      "title": "Gix",
+      "subtitle": "Tarjetas Digitales",
+      "url": "https://gix.cards/",
+      "colors": {
+        "bg": "#14e400",
+        "icon": "#ffffff"
+      },
+      "media": {
+        "icon": "mdi:store"
+      }
+    },
+    {
+      "title": "Flow",
+      "subtitle": "Jamstack Frontend Tooling",
+      "url": "https://docs-flow.netlify.app/",
+      "colors": {
+        "bg": "#000000",
+        "icon": "#ffffff"
+      },
+      "media": {
+        "icon": "fa-brands:html5"
+      }
+    }
+  ]
+}

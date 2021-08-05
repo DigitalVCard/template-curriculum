@@ -1,0 +1,18 @@
+{
+  "id": "basic",
+  "colors": {
+    "primary": "#fde530",
+    "secondary": "#252525",
+    "primaryBgText": "#252525",
+    "secondaryBgText": "#ffffff"
+  },
+  "isLight": true,
+  "options": {
+    "shape": {
+      "mode": "normal"
+    },
+    "basic": {
+      "image": "/images/que-es-javascript.jpg"
+    }
+  }
+}
